@@ -1,5 +1,5 @@
 # 💫 About Me:
-I have completed a B.Sc. in Computer Science and a Diploma in Computer Application, with strong proficiency in MS Excel, MS Word, MS PowerPoint, MS Access, and MS Office. I am currently learning Python programming and SQL and have good professional email writing skills.<br><br>Fun Fact: I enjoy exploring new tech tools and learning practical skills that enhance both academic and professional growth.
+I have completed a B.Sc. in Computer Science and a Diploma in Computer Application, with strong proficiency in MS Excel, MS Word, MS PowerPoint, MS Access, and MS Office. I am Python Developer and have good professional email writing skills.<br><br>Fun Fact: I enjoy exploring new tech tools and learning practical skills that enhance both academic and professional growth.
 
 
 ## 🌐 Socials:
@@ -25,8 +25,6 @@ I have completed a B.Sc. in Computer Science and a Diploma in Computer Applicati
 [![](https://visitcount.itsvg.in/api?id=Devangi-Shukla&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
 
 
 
