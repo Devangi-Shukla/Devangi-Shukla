@@ -13,19 +13,15 @@ I have completed a B.Sc. in Computer Science and a Diploma in Computer Applicati
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Devangi-Shukla&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Devangi-Shukla&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Devangi-Shukla&theme=default_repocard&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Devangi-Shukla&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Devangi-Shukla&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
 
 
 
