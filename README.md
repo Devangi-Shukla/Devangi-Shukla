@@ -1,5 +1,5 @@
 # 💫 About Me:
-I have completed a B.Sc. in Computer Science and a Diploma in Computer Application, with strong proficiency in MS Excel, MS Word, MS PowerPoint, MS Access, and MS Office. I am Python Developer and have good professional email writing skills.<br><br>Fun Fact: I enjoy exploring new tech tools and learning practical skills that enhance both academic and professional growth.
+I have completed my bachelor's in Computer Science and a Diploma in Computer Application, with strong proficiency in MS Excel, MS Word, MS PowerPoint, MS Access, and MS Office. I am Python Developer and have good professional email writing skills.<br><br>Fun Fact: I enjoy exploring new tech tools and learning practical skills that enhance both academic and professional growth.
 
 
 ## 🌐 Socials:
